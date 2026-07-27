@@ -12,7 +12,6 @@ The project can recognize three colors:
 - Blue
 
 
-https://github.com/user-attachments/assets/9af3b577-5f9e-4be7-9619-c7a9d2dd05bf
 
 
 ## Technologies Used
