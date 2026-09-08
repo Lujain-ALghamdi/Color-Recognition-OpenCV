@@ -26,6 +26,11 @@ https://github.com/user-attachments/assets/93c4c883-366f-45df-9cf8-f5245cfc1271
 - OpenCV: For computer vision and color detection.
 - NumPy: For image data processing.
 
+## Features
+
+- Real-time color recognition using OpenCV
+- Detects colors from images or camera input
+- Simple and lightweight Python implementation
 
 ## How It Works
 
