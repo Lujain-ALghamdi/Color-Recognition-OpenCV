@@ -13,7 +13,6 @@ The project can recognize three colors:
 
 https://github.com/user-attachments/assets/93c4c883-366f-45df-9cf8-f5245cfc1271
 
-
 ## Technologies Used
 
 - Python
